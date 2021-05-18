@@ -316,7 +316,9 @@ seo:
     - name: 'twitter:title'
       value: Cloudhealy
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: >-
+        Una bonita nube descentralizada, almacenamiento e intercambio de
+        archivos peer-to-peer.
     - name: 'twitter:image'
       value: /images/grid.png
       relativeUrl: true
