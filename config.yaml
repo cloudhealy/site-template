@@ -102,7 +102,7 @@ params:
         icon_position: center
         new_window: true
       - label: LinkedIn
-        url: 'https://cr.linkedin.com/cloudhealy'
+        url: 'https://cr.linkedin.com/company/cloudhealy'
         style: link
         has_icon: true
         icon: linkedin
