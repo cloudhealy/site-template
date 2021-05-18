@@ -316,7 +316,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the DIY theme
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/grid.png
       relativeUrl: true
   description: >-
     Una bonita nube descentralizada, almacenamiento e intercambio de archivos
