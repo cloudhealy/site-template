@@ -17,7 +17,7 @@ sections:
     image: images/upload.svg
     image_alt: Hero section placeholder image
     media_position: left
-    media_width: fifty
+    media_width: forty
     align: left
     padding_top: large
     padding_bottom: large
