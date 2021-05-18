@@ -81,8 +81,8 @@ params:
       - label: Privacidad y condiciones
         url: /terms
         style: link
-      - label: Privacy Policy
-        url: /privacy-policy
+      - label: Comunidad
+        url: /community
         style: link
       - label: Contacto
         url: /contact
