@@ -78,8 +78,8 @@ params:
     has_tertiary_nav: true
     tertiary_nav_title: Ayuda
     tertiary_nav_links:
-      - label: 
-        url: /terms-conditions
+      - label: Privacidad y condiciones
+        url: /terms
         style: link
       - label: Privacy Policy
         url: /privacy-policy
