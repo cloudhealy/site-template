@@ -8,7 +8,7 @@ sections:
       restricción.
     actions:
       - label: Comenzar
-        url: /pricing
+        url: /
         style: primary
       - label: Más info
         url: /features
