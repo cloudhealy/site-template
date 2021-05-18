@@ -35,7 +35,7 @@ params:
         url: /contact
         style: link
       - label: Comenzar
-        url: /pricing
+        url: /
         style: primary
     has_anncmnt: false
     anncmnt_content: >-
