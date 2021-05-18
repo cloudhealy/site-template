@@ -65,6 +65,7 @@ params:
         style: link
     has_secondary_nav: true
     secondary_nav_title: Blog
+    url: /blog
     secondary_nav_links:
       - label: Noticias
         url: /blog/category/news
