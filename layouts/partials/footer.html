@@ -16,11 +16,6 @@
 	<div class="site-footer__nav py-5 py-md-6">
 		<div class="container">
 			<div class="grid{{ if eq $has_logo false }} justify-md-center{{ end }}">
-				{{ if $has_logo }}
-				<a class="site-footer__logo cell-12 cell-md-5 my-4" href="{{ "/" | relURL }}">
-					<img src="{{ $.Site.Params.footer.logo | relURL }}" alt="{{ $.Site.Params.header.logo_alt }}" />
-				</a>
-				{{ end }}
 				{{ if and $.Site.Params.footer.has_primary_nav $.Site.Params.footer.primary_nav_links }}
 				<div class="site-footer__menu cell-12 cell-md my-3 my-md-4">
 					{{ if $.Site.Params.footer.primary_nav_title }}
