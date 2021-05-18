@@ -95,6 +95,7 @@
 	
 		.nav-overlay {
 				opacity: 1;
+                position: fixed;
 				transition: opacity .25s;
 				visibility: visible;
 				z-index: 998;
