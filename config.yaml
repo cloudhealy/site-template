@@ -57,6 +57,9 @@ params:
       - label: Donar
         url: /donate
         style: link
+      - label: FAQ
+        url: /faq
+        style: link
       - label: About
         url: /about
         style: link
