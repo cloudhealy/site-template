@@ -78,6 +78,41 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+- type: form_section
+    section_id: contact-form
+    content: >-
+      Complete this contact form or send me an email at
+      [johan@draew.com](mailto:johan@draew.com).
+
+    form_id: contact
+    form_action: /thank-you
+    form_fields:
+      - input_type: text
+        name: name
+        label: Name
+        default_value: Your name
+        is_required: true
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+      - input_type: select
+        name: subject
+        label: What do you want to talk with me?
+        default_value: Please select
+        options:
+          - A (specific) project
+          - Blog or stories
+          - A friends conversation
+          - Other
+        is_required: true
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: Write ur message here!
+        is_required: true
+    submit_label: Send Message
 seo:
   title: Contact
   description: This is the contact page
