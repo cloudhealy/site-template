@@ -295,7 +295,6 @@ sections:
     background_color: secondary
 seo:
   title: Cloudhealy
-  description: The preview of the DIY theme
   extra:
     - name: 'og:type'
       value: website
