@@ -196,7 +196,7 @@ img {
 		}
 	}
 }
-
+@include media-breakpoint-down(sm){
 .style-classic {
 	.site-content {
 		img {
