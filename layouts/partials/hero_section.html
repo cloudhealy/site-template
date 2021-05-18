@@ -49,7 +49,7 @@
 				{{ if $section.video_embed_html }}
 					{{ $section.video_embed_html | safeHTML }}
 				{{ else }}
-					<img src="{{ $section.image | relURL }}" alt="{{ $section.image_alt }}" class="{{ $section.class }}" />
+					<img src="{{ $section.image | relURL }}" alt="{{ $section.image_alt }}" class="{{ $section.image_class }}" />
 				{{ end }}
 			</div>
 			{{ end }}
