@@ -3,9 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: A pretty decentralized cloud.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Almacene y comparta cualquier tipo de archivos libremente sin ninguna
+      restricción.
     actions:
       - label: Comenzar
         url: /pricing
