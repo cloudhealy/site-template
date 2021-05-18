@@ -1,6 +1,60 @@
 ---
 title: Contact
 sections:
+  - type: form_section
+    content: >-
+      ### Billing
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+
+      ### Privacy
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+    content_align: left
+    form_position: right
+    form_width: fifty
+    form_layout: inline
+    enable_card: true
+    form_id: contact-form
+    form_action: /thank-you
+    form_fields:
+      - input_type: text
+        name: name
+        label: Nombre
+        default_value: Tu nombre
+        is_required: true
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Tu correo electrónico 
+        is_required: true
+      - input_type: select
+        name: subject
+        label: Asunto
+        default_value: Selecciona una opción
+        options:
+          - Opción 1
+          - Opción 2
+          - Otro(s)
+      - input_type: textarea
+        name: message
+        label: Mensaje
+        default_value: Escribe tu mensaje.
+      - input_type: checkbox
+        name: consent
+        label: >-
+          Entiendo que mi información personal como nombre y dirección de correo electrónico será almacenada para que pueda ser contactado.
+        is_required: true
+    submit_label: Enviar Mensaje
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    background_color: primary
+
   - type: hero_section
     title: Get in touch
     subtitle: >-
