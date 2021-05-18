@@ -54,6 +54,9 @@ params:
       - label: Careers
         url: /careers
         style: link
+      - label: Donar
+        url: /donate
+        style: link
       - label: About
         url: /about
         style: link
