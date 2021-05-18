@@ -303,7 +303,9 @@ seo:
       value: Cloudhealy
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        Una bonita nube descentralizada, almacenamiento e intercambio de
+        archivos peer-to-peer.
       keyName: property
     - name: 'og:image'
       value: /images/grid.png
