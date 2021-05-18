@@ -90,6 +90,11 @@ params:
       - label: Contacto
         url: /contact
         style: link
+    quatiary_nav_title: Ayuda
+    quatiary_nav_links:
+      - label: Centro de ayuda
+        url: /help
+        style: link
     has_social: true
     social_links:
       - label: Instagram
