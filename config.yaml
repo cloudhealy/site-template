@@ -81,7 +81,7 @@ params:
     has_social: true
     social_links:
       - label: Instagram
-        url: 'https://instagram.com/'
+        url: 'https://instagram.com/cloudhealy'
         style: link
         has_icon: true
         icon: instagram
