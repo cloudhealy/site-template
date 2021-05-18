@@ -197,15 +197,7 @@ img {
 		}
 	}
 }
-@include media-breakpoint-down(sm){
-.style-classic {
-	.site-content {
-		img {
-			height: 20em;
-		}
-	}
-}
-}
+
 
 figure {
 	margin: 0 0 1em;
