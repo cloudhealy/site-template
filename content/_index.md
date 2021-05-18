@@ -7,10 +7,10 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Try Free
+      - label: Comenzar
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Más info
         url: /features
         style: secondary
     image: images/upload.svg
