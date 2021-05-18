@@ -84,7 +84,7 @@ params:
         url: 'https://instagram.com/'
         style: link
         has_icon: true
-        icon: twitter
+        icon: instagram
         icon_position: center
         new_window: true
       - label: Twitter
