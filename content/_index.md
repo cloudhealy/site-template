@@ -318,5 +318,8 @@ seo:
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
+  description: >-
+    Una bonita nube descentralizada, almacenamiento e intercambio de archivos
+    peer-to-peer.
 layout: advanced
 ---
