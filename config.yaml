@@ -81,8 +81,8 @@ params:
       - label: Privacidad y condiciones
         url: /terms
         style: link
-      - label: Privacy Policy
-        url: /privacy-policy
+      - label: Contacto
+        url: /contact
         style: link
     has_social: true
     social_links:
