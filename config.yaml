@@ -60,7 +60,7 @@ params:
       - label: FAQ
         url: /faq
         style: link
-      - label: About
+      - label: Acerca
         url: /about
         style: link
       - label: Style Guide
