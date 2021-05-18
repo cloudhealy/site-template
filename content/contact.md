@@ -2,7 +2,7 @@
 title: Contact
 sections:
 - type: form_section
-    section_id: contact-form
+    section_id: contact
     content: >-
       Complete this contact form or send me an email at
       [johan@draew.com](mailto:johan@draew.com).
