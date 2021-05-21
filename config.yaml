@@ -127,7 +127,7 @@ params:
         icon: facebook
         icon_position: center
         new_window: true
-    content: '&copy; 2021 Cloudhealy. All rights reserved.'
+    content: 'Cloudhealy. All rights reserved.'
   domain: 'https://site-template-30d56.netlify.app'
   favicon: images/favicon.png
 taxonomies:
