@@ -13,8 +13,8 @@ sections:
       - label: Más info
         url: /features
         style: secondary
-    image: images/cloudhealy.png
-    image_class: upload
+    image: 
+    image_class: 
     media_position: left
     media_width: fifty
     align: left
