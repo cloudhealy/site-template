@@ -16,7 +16,7 @@ sections:
     image_alt: Hero section placeholder image
     image_class: upload
     media_position: left
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
