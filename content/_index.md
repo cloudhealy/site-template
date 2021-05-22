@@ -13,7 +13,6 @@ sections:
       - label: Más info
         url: /features
         style: secondary
-    image: images/upload.svg
     image_alt: Hero section placeholder image
     image_class: upload
     media_position: left
