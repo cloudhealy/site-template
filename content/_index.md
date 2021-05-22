@@ -14,7 +14,7 @@ sections:
         url: /features
         style: secondary
     image: images/xd.webp
-    image_class: 
+    image_class: transparent
     media_position: left
     media_width: fifty
     align: left
