@@ -135,7 +135,7 @@ seo:
       value: This is the pricing page
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /_static/app-assets/xd.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
