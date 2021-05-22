@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: A decentralized cloud.
+    title: <br>A decentralized cloud.
     content: >
       Almacene y comparta cualquier tipo de archivos libremente sin ninguna
       restricción.
