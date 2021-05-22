@@ -13,7 +13,7 @@ sections:
       - label: Más info
         url: /features
         style: secondary
-    image: images/cloudhealy.png
+    image: images/xd.webp
     image_class: 
     media_position: left
     media_width: fifty
