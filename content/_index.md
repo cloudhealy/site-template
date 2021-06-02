@@ -307,7 +307,7 @@ seo:
         archivos peer-to-peer.
       keyName: property
     - name: 'og:image'
-      value: /images/grid.png
+      value: /_static/app-assets/app.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
